@@ -159,6 +159,8 @@ Newsentra
 ├── app.py
 │
 ├── config
+│   └── categories.py
+│   └── language_config.py
 │   └── settings.py
 │
 ├── news
@@ -182,6 +184,9 @@ Newsentra
 │   ├── translator.py
 │   ├── sentiment.py
 │   └── analytics.py
+│
+├── fonts
+│   └── DejaVuSans.ttf
 │
 ├── assets
 │
@@ -434,7 +439,9 @@ cd newsentra
 
 ---
 
-## Create Virtual Environment
+## (Recommended) Create a Virtual Environment
+
+Creating a virtual environment helps isolate project dependencies and avoid conflicts with globally installed packages.
 
 ### Windows
 
