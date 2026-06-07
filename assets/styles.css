@@ -1,0 +1,53 @@
+.main-title{
+    font-size:42px;
+    font-weight:700;
+}
+
+.metric-card{
+    background: linear-gradient(
+        135deg,
+        #1f2937,
+        #374151
+    );
+
+    color:white;
+
+    border-radius:18px;
+
+    padding:20px;
+
+    text-align:center;
+
+    box-shadow:
+        0 4px 12px rgba(
+            0,
+            0,
+            0,
+            0.15
+        );
+
+    margin-bottom:10px;
+}
+
+.metric-title{
+    font-size:14px;
+    color:#d1d5db;
+}
+
+.metric-value{
+    font-size:30px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+.article-card{
+    border-radius:10px;
+    padding:15px;
+    border:1px solid #ddd;
+    margin-bottom:10px;
+}
+
+.summary-box{
+    padding:20px;
+    border-radius:12px;
+}
