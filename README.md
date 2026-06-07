@@ -518,15 +518,25 @@ http://localhost:8501
 # Current Capabilities
 
 ✔ Multi-source aggregation
+
 ✔ AI summarization
+
 ✔ Sentiment analysis
+
 ✔ Multi-language support
+
 ✔ Article images
+
 ✔ Source attribution
+
 ✔ Analytics dashboard
+
 ✔ PDF export
+
 ✔ TXT export
+
 ✔ Follow-up searches
+
 ✔ Responsive Streamlit interface
 
 ---
